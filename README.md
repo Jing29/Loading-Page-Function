@@ -12,7 +12,7 @@ Interface
 The main function is in loading.js and the style is in loading.css
 
 a)	selector: string, which could be used to select element using $ directly.  
-    i.	E.g: ‘#app’, ‘body’  
+        i.	E.g: ‘#app’, ‘body’  
 b)	text: set the text shown near the loading icon.  
 
 c)	progressBar: true/false. A flag indicates whether the progress bar shows or not.  
@@ -27,14 +27,14 @@ f)	show: true/false, show the page or not.
 Example
 ------
 
-Check the example in the index.js
+Please check the example in the index.js
 
 Implement
 ------
 
 Loading function: ES6 + css + jquery + bootstrap + font-awesome  
 
-The whole projection: yarn + webpack + babel + ES6 + css + jquery + bootstrap + font-awesome   
+The whole project: yarn + webpack + babel + ES6 + css + jquery + bootstrap + font-awesome   
 
 Start
 ------
